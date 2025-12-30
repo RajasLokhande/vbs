@@ -4,7 +4,7 @@
     <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/external-backend-computer-programming-flaticons-flat-flat-icons.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">VBS Backend Service</h3>
+  <h3 align="center">Virtual Banking System</h3>
 
   <p align="center">
     A robust RESTful API built with Spring Boot.
@@ -23,7 +23,6 @@
 ![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![License](https://img.shields.io/github/license/RajasLokhande/vbs?style=for-the-badge)
 
 </div>
 

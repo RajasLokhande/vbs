@@ -35,11 +35,6 @@
 3. [Getting Started](#-getting-started)
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
-4. [Usage & API](#-usage--api)
-5. [Roadmap](#-roadmap)
-6. [Contributing](#-contributing)
-7. [Contact](#-contact)
-
 ---
 
 ## 📖 About The Project

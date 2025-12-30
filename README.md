@@ -93,9 +93,3 @@ If you are recreating this project manually, follow these steps:
 8.  Extract the ZIP and copy your source code into that folder.
 
 </details>
-  1.Spring Web
-  2.Lombok
-  3.MySql Driver
-  4.Spring data JPA
-  then download the zip file
-then inside that file start coding there or clone it there

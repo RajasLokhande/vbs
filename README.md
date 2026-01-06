@@ -10,7 +10,7 @@
     The engine under the hood. A clean, robust REST API built with Spring Boot.
     <br />
     <br />
-    <a href="#-getting-started"><strong>Lets get started »</strong></a>
+    <a href="#-getting-started"><strong>Let's get started »</strong></a>
     <br />
     <br />
     <a href="https://github.com/RajasLokhande/vbs/issues">Report Bug</a>
